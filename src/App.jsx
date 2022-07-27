@@ -11,7 +11,6 @@ import AddSet from './pages/AddSet/AddSet'
 import * as setService from './services/setService'
 import EditSet from './pages/EditSet/EditSet'
 import ProfileDetails from './pages/ProfileDetails/ProfileDetails'
-import Set from './pages/SetShow/SetShow'
 import SetShow from './pages/SetShow/SetShow'
 
 const App = () => {
